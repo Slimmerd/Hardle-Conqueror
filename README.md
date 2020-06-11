@@ -11,5 +11,7 @@
 
 # Download game
 ## MacOS
+[MacOS download](https://github.com/Slimmerd/Hardle-Conqueror/tree/master/GameInfo/Download/MacOS/Hardle%20Conqueror.app)
+
 
 ## Windows
