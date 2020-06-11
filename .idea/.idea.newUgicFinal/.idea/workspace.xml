@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4017f909-32ed-4815-a5ee-0b8c46ad57d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AgroMode/SelfDestroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AgroMode/bodyParts.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AgroMode/finishGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AgroMode/Enemy/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeA.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AgroMode/Player/CameraFoll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AgroMode/Player/MoveContrl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AgroMode/Player/MoveHand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AgroMode/Containers/GunContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StandNode/came.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/MenuPause.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StandNode/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StandNode/newMapGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StandNode/ScoreSys.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StandNode/Jump.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StandNode/movingObj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StandNode/Containers/CameraContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StandNode/Containers/PlayerStat_Container.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StandNode/fml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AgroMode/weapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Shop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/MenuManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SettingsMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SoundManagement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AgroMode/Enemy/EnemyHand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/StandNode/GroundObstacleDeath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AgroMode/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/SoundManagement.cs" />
+        <option value="$PROJECT_DIR$/Assets/StandardModeScript/movingObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/StandardModeScript/GroundObstacleDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/movingObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/MenuPause.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GroundObstacleDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/LevelLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/groundche.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Jump.cs" />
+        <option value="$PROJECT_DIR$/Assets/MoveContrl.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraFoll.cs" />
+        <option value="$PROJECT_DIR$/Assets/weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/SelfDestroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/SettingsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StandNode/movingObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/_/Base/BaseScripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/RunnerMapGeneration/Scripts/LevelGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/came.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StandNode/GroundObstacleDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/LevelSelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StandNode/came.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StandNode/Destroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StandNode/Containers/PlayerStat_Container.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/MoveHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StandNode/fml.cs" />
+        <option value="$PROJECT_DIR$/Assets/MoveTrail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/MoveContrl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/EnemyHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/Player/CameraFoll.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/Recoil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StandNode/Containers/CameraContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StandNode/newMapGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/SoundManagement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/Containers/GunContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Shop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/Player/MoveHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StandNode/ScoreSys.cs" />
+        <option value="$PROJECT_DIR$/Assets/healthUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/finishGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/Enemy/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/Enemy/EnemyHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/StandNode/Jump.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/MenuPause.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/Player/MoveContrl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AgroMode/weapon.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YdWRaBVbqViG3UVBXszbDKmPC9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.build.unityPlugin" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4017f909-32ed-4815-a5ee-0b8c46ad57d5" name="Default Changelist" comment="" />
+      <created>1583272944512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583272944512</updated>
+      <workItem from="1583272950685" duration="30437000" />
+      <workItem from="1584484733359" duration="33242000" />
+      <workItem from="1587401916242" duration="1698000" />
+      <workItem from="1588436118432" duration="1444000" />
+      <workItem from="1588700468248" duration="13830000" />
+      <workItem from="1589333455957" duration="700000" />
+      <workItem from="1589381093590" duration="11630000" />
+      <workItem from="1589571987945" duration="1080000" />
+      <workItem from="1589942570688" duration="1644000" />
+      <workItem from="1590064080552" duration="15368000" />
+      <workItem from="1590243399039" duration="9992000" />
+      <workItem from="1590557507333" duration="11801000" />
+      <workItem from="1590670230297" duration="23774000" />
+      <workItem from="1590752566014" duration="3113000" />
+      <workItem from="1590847539188" duration="33760000" />
+      <workItem from="1590951802820" duration="90000" />
+      <workItem from="1590953957290" duration="24000" />
+      <workItem from="1590954010433" duration="6557000" />
+      <workItem from="1590974295729" duration="15292000" />
+      <workItem from="1591381319568" duration="664000" />
+      <workItem from="1591474794275" duration="8122000" />
+      <workItem from="1591542964136" duration="4371000" />
+      <workItem from="1591828201940" duration="923000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="203" y="383" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.ChooseSilentCodeCleanupProfileDialog" timestamp="1584841895107">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="203" y="383" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.ChooseSilentCodeCleanupProfileDialog/0.0.1440.900@0.0.1440.900" timestamp="1584841895107" />
+    <state x="95" y="318" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1590067934312">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="95" y="318" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1440.900@0.0.1440.900" timestamp="1590067934312" />
+    <state x="462" y="181" key="RiderGenerateDialog" timestamp="1590071831176">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="462" y="181" key="RiderGenerateDialog/0.0.1440.900@0.0.1440.900" timestamp="1590071831176" />
+    <state x="97" y="42" key="SettingsEditor" timestamp="1590753366064">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="42" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1590753366063" />
+    <state x="221" y="65" key="SettingsEditor/0.23.1440.810@0.23.1440.810" timestamp="1583273945587" />
+    <state x="319" y="207" width="801" height="490" key="find.popup" timestamp="1590067821486">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="319" y="207" width="801" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590067821486" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1584856198252">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1584856198252" />
+    <state x="384" y="209" key="run.anything.popup" timestamp="1590754338756">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="384" y="209" key="run.anything.popup/0.23.1440.805@0.23.1440.805" timestamp="1590754338756" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1591020136015">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591020136015" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/MenuPause.cs</url>
+          <line>32</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/MenuPause.cs" initialLine="21">
+            <startOffsets>
+              <option value="825" />
+            </startOffsets>
+            <endOffsets>
+              <option value="834" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/StandNode/fml.cs</url>
+          <line>24</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/StandNode/fml.cs" initialLine="24">
+            <startOffsets>
+              <option value="599" />
+              <option value="636" />
+            </startOffsets>
+            <endOffsets>
+              <option value="635" />
+              <option value="666" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/AgroMode/weapon.cs</url>
+          <line>52</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/AgroMode/weapon.cs" initialLine="45">
+            <startOffsets>
+              <option value="1247" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1274" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/Shop.cs</url>
+          <line>28</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/Shop.cs" initialLine="22">
+            <startOffsets>
+              <option value="694" />
+            </startOffsets>
+            <endOffsets>
+              <option value="818" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/Shop.cs</url>
+          <line>64</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/Shop.cs" initialLine="66">
+            <startOffsets>
+              <option value="2090" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2145" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/AgroMode/weapon.cs</url>
+          <line>76</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/AgroMode/weapon.cs" initialLine="76">
+            <startOffsets>
+              <option value="2108" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2152" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/AgroMode/Enemy/EnemyHand.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/AgroMode/Enemy/EnemyHand.cs" initialLine="14">
+            <startOffsets>
+              <option value="307" />
+            </startOffsets>
+            <endOffsets>
+              <option value="351" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/StandNode/GroundObstacleDeath.cs</url>
+          <line>16</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/StandNode/GroundObstacleDeath.cs" initialLine="16">
+            <startOffsets>
+              <option value="333" />
+            </startOffsets>
+            <endOffsets>
+              <option value="349" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
