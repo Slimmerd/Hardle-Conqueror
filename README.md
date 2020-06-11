@@ -15,6 +15,6 @@
 
 
 ## Windows
-[Windows download](https://drive.google.com/file/d/1NQ1OT7LArThdZDh7JOMAvffqwJni7xv4/view?usp=sharing)(Not installer)
+[Windows download](https://drive.google.com/file/d/1_O-i1r5oavmwZu_-Wmu07jYfSVNR4xRc/view?usp=sharing)(Not installer)
 
 Installer will be introduced later
